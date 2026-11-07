@@ -1,0 +1,6 @@
+{
+  "name": "Literatura 7.º ESO — Ispaneren & Hayeren",
+  "description": "Իսպաներեն գրականության քննության պատրաստություն (7.º ESO)․ սեղմիր իսպաներենի վրա հայերեն թարգմանությունը բացելու համար, ինտերակտիվ թեստով և ուսումնական քարտերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

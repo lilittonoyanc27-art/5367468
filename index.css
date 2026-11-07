@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  font-size: 18px; /* Increased base font size */
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom font scaling states */
+.font-size-normal {
+  font-size: 16px;
+}
+.font-size-large {
+  font-size: 18px;
+}
+.font-size-xlarge {
+  font-size: 21px;
+}
